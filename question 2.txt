@@ -1,0 +1,3 @@
+For c "long int"
+For python "int" 
+as after python 3.0 long int has been removed
